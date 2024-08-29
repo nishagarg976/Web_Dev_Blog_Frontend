@@ -1,0 +1,39 @@
+.navbar{
+  background-color: white;
+  padding: 10px;
+}
+
+.logo1 {
+  padding: 0,20px;
+  color:black
+}
+
+
+
+.left{
+  text-decoration: none;
+  color: white;
+}
+.items{
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: Avenir, sans-serif;
+    font-weight: 700;
+    font-stretch: normal;
+    line-height: 1.05;
+    color: var(--color-b3);
+    font-size: 18px;
+}
+
+
+.items:hover{
+  color: blue;
+}
+
+.right{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
